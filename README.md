@@ -25,7 +25,8 @@
 * **Section II: Elementary Data Structures**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |4<br/>5|Stack Data Structure<br/>Stack Challenges|[경준]|[블로그](https://minkkkjoon.github.io/Data-Structure-Stack/)|
+  > |4|Stack Data Structure|[경준]|[블로그](https://minkkkjoon.github.io/Data-Structure-Stack/)|
+  > |5|Stack Challenges|[경준]|-|
   > |6|Linked List| ||
   > |7|Linked List Challenges| ||
   > |8|Queues| ||
