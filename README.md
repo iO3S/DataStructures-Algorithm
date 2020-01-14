@@ -88,9 +88,6 @@
 * [태현]
 * [경준]
 
-## ContactOur
-*  https://github.com/start-rxswift/Introduce
-
 
 [장희]: https://github.com/purpufu
 [태현]: https://github.com/newoo
