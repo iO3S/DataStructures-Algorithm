@@ -20,7 +20,7 @@
   > |:---:| :--- | :--- | :--- |
   > |1|Why Learn Data Structures & Algorithms?| [장희] |[노션](https://www.notion.so/Chapter-1-Why-Learn-Data-Structures-Algorithms-515fcf0886a7471692a29d7d9de00931)|
   > |2|Complexity| [장희] |[노션](https://www.notion.so/Chapter-2-Complexity-68e6074ed81843439bf4e13949279a6b)|
-  > |3|Swift Standard Library|[태현]|[PDF](https://github.com/iO3S/DataStructures-Algorithm/blob/master/Ch3/Ch3_Swift_STL.pdf)|
+  > |3|Swift Standard Library|[태헌]|[PDF](https://github.com/iO3S/DataStructures-Algorithm/blob/master/Ch3/Ch3_Swift_STL.pdf)|
 
 * **Section II: Elementary Data Structures**
   > | Ch# | Chapter Subject | Presenter | Note |
