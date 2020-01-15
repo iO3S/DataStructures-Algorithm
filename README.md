@@ -85,10 +85,10 @@
 > 역대 발표자
 
 * [장희]
-* [태현]
+* [태헌]
 * [경준]
 
 
 [장희]: https://github.com/purpufu
-[태현]: https://github.com/newoo
+[태헌]: https://github.com/newoo
 [경준]: https://github.com/minkkkjoon
