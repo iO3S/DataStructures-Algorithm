@@ -26,9 +26,9 @@
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
   > |4|Stack Data Structure|[경준]|[블로그](https://minkkkjoon.github.io/Data-Structure-Stack/)|
-  > |5|Stack Challenges|[경준]|-|
+  > |5|Stack Challenges|[경준]||
   > |6|Linked List|[성훈]|[드롭박스 문서](https://paper.dropbox.com/doc/Linked-List--AsjwdT_JJorafcHZI6BknxXKAg-PhhtalXnsUhBPqZpXdC0v)|
-  > |7|Linked List Challenges|[성훈]|-|
+  > |7|Linked List Challenges|[성훈]||
   > |8|Queues|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719)|
   > |9|Queue Challenges|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-challenges-in-swift-220685044)|
 
