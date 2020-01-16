@@ -20,17 +20,17 @@
   > |:---:| :--- | :--- | :--- |
   > |1|Why Learn Data Structures & Algorithms?| [장희] |[노션](https://www.notion.so/Chapter-1-Why-Learn-Data-Structures-Algorithms-515fcf0886a7471692a29d7d9de00931)|
   > |2|Complexity| [장희] |[노션](https://www.notion.so/Chapter-2-Complexity-68e6074ed81843439bf4e13949279a6b)|
-  > |3|Swift Standard Library|[태헌]|[PDF](https://github.com/iO3S/DataStructures-Algorithm/blob/master/Ch3/Ch3_Swift_STL.pdf)|
+  > |3|Swift Standard Library|[태헌]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/Ch3/Ch3_Swift_STL.pdf)|
 
 * **Section II: Elementary Data Structures**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
   > |4|Stack Data Structure|[경준]|[블로그](https://minkkkjoon.github.io/Data-Structure-Stack/)|
   > |5|Stack Challenges|[경준]|-|
-  > |6|Linked List| ||
-  > |7|Linked List Challenges| ||
-  > |8|Queues| ||
-  > |9|Queue Challenges| ||
+  > |6|Linked List|[성훈]|[드롭박스 문서](https://paper.dropbox.com/doc/Linked-List--AsjwdT_JJorafcHZI6BknxXKAg-PhhtalXnsUhBPqZpXdC0v)|
+  > |7|Linked List Challenges|[성훈]|-|
+  > |8|Queues|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719)|
+  > |9|Queue Challenges|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-challenges-in-swift-220685044)|
 
 * **Section III: Trees**
   > | Ch# | Chapter Subject | Presenter | Note |
@@ -87,8 +87,12 @@
 * [장희]
 * [태헌]
 * [경준]
+* [성훈]
+* [도미닉]
 
 
 [장희]: https://github.com/purpufu
 [태헌]: https://github.com/newoo
 [경준]: https://github.com/minkkkjoon
+[성훈]: https://github.com/Seonghun23
+[도미닉]: https://github.com/AppleCEO
