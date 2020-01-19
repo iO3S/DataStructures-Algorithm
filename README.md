@@ -29,7 +29,7 @@
   > |5|Stack Challenges|[경준]||
   > |6|Linked List|[성훈]|[드롭박스 문서](https://paper.dropbox.com/doc/Linked-List--AsjwdT_JJorafcHZI6BknxXKAg-PhhtalXnsUhBPqZpXdC0v)|
   > |7|Linked List Challenges|[성훈]||
-  > |8|Queues|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719)|
+  > |8|Queues|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719), [유튜브](https://youtu.be/icw6Kq5Xs3M)|
   > |9|Queue Challenges|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-challenges-in-swift-220685044)|
 
 * **Section III: Trees**
