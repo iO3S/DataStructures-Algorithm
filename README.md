@@ -35,10 +35,10 @@
 * **Section III: Trees**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |10|Trees| ||
-  > |11|Tree Challenges| ||
-  > |12|Binary Trees| ||
-  > |13|Binary Tree Challenges| ||
+  > |10|Trees|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-10-trees-ee883cf24b2)|
+  > |11|Tree Challenges|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-11-tree-challenges-203831cdc485)|
+  > |12|Binary Trees|[련호]|[노션](https://www.notion.so/Chapter-11-BinaryTree-f30985b2e43d4dd2ac2a7847ebd83d89)|
+  > |13|Binary Tree Challenges|[련호]|[노션](https://www.notion.so/Chapter-12-Binary-Tree-Challenges-e0023451737442f2aa7a837ff46215a0)|
   > |14|Binary Search Trees| ||
   > |15|Binary Search Tree Challenges| ||
   > |16|AVL Trees| ||
@@ -89,10 +89,13 @@
 * [경준]
 * [성훈]
 * [도미닉]
-
+* [종찬]
+* [련호]
 
 [장희]: https://github.com/purpufu
 [태헌]: https://github.com/newoo
 [경준]: https://github.com/minkkkjoon
 [성훈]: https://github.com/Seonghun23
 [도미닉]: https://github.com/AppleCEO
+[종찬]: https://github.com/kimdaeman14
+[련호]: https://github.com/LyunhoKim
