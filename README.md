@@ -39,10 +39,10 @@
   > |11|Tree Challenges|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-11-tree-challenges-203831cdc485)|
   > |12|Binary Trees|[련호]|[노션](https://www.notion.so/Chapter-11-BinaryTree-f30985b2e43d4dd2ac2a7847ebd83d89)|
   > |13|Binary Tree Challenges|[련호]|[노션](https://www.notion.so/Chapter-12-Binary-Tree-Challenges-e0023451737442f2aa7a837ff46215a0)|
-  > |14|Binary Search Trees| ||
-  > |15|Binary Search Tree Challenges| ||
-  > |16|AVL Trees| ||
-  > |17|AVL Tree Challenges| ||
+  > |14|Binary Search Trees|[태헌]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/BST.pdf)|
+  > |15|Binary Search Tree Challenges|[태헌]||
+  > |16|AVL Trees|[장희]|[노션](https://www.notion.so/AVL-TREE-447a3ea4504e4e3192c70e3113231582)|
+  > |17|AVL Tree Challenges|[장희]||
   > |18|Tries| ||
   > |19|Trie Challenges| ||
   > |20|Binary Search| ||
