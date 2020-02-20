@@ -47,7 +47,7 @@
   > |19|Trie Challenges|[경준]||
   > |20|Binary Search|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/binary-search-228717962)|
   > |21|Binary Search Challenges|[도미닉]||
-  > |22|The Heap Data Structure|[성훈]|드롭박스 문서](https://paper.dropbox.com/doc/The-Heap-Data-Structure--AuoD4L7Hzse7fm5QbC3~C_JKAg-5YhTxdUVc8BqsQ6fMRV16|
+  > |22|The Heap Data Structure|[성훈]|드롭박스 문서](https://paper.dropbox.com/doc/The-Heap-Data-Structure--AuoD4L7Hzse7fm5QbC3~C_JKAg-5YhTxdUVc8BqsQ6fMRV16)|
   > |23|Heap Data Structure Challenges|[성훈]||
   > |24|Priority Queue| ||
   > |25|Priority Queue Challenges| ||
