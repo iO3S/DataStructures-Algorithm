@@ -43,12 +43,12 @@
   > |15|Binary Search Tree Challenges|[태헌]||
   > |16|AVL Trees|[장희]|[노션](https://www.notion.so/AVL-TREE-447a3ea4504e4e3192c70e3113231582)|
   > |17|AVL Tree Challenges|[장희]||
-  > |18|Tries| ||
-  > |19|Trie Challenges| ||
-  > |20|Binary Search| ||
-  > |21|Binary Search Challenges| ||
-  > |22|The Heap Data Structure| ||
-  > |23|Heap Data Structure Challenges| ||
+  > |18|Tries|[경준]|[노션](https://www.notion.so/Chapter-18-Tries-Kor-4f507a4bae594bb88d8d2d58c9dfe8d4)|
+  > |19|Trie Challenges|[경준]||
+  > |20|Binary Search|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/binary-search-228717962)|
+  > |21|Binary Search Challenges|[도미닉]||
+  > |22|The Heap Data Structure|[성훈]|드롭박스 문서](https://paper.dropbox.com/doc/The-Heap-Data-Structure--AuoD4L7Hzse7fm5QbC3~C_JKAg-5YhTxdUVc8BqsQ6fMRV16|
+  > |23|Heap Data Structure Challenges|[성훈]||
   > |24|Priority Queue| ||
   > |25|Priority Queue Challenges| ||
 
