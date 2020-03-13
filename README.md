@@ -55,8 +55,8 @@
 * **Section IV: Sorting Algorithms**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |26|O(n2) Sorting Algorithms|[태현]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/merge-sort.pdf)|
-  > |27|O(n2) Sorting Challenges|[태현]||
+  > |26|O(n2) Sorting Algorithms|[태헌]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/merge-sort.pdf)|
+  > |27|O(n2) Sorting Challenges|[태헌]||
   > |28|Merge Sort|[종찬]|[노션](https://www.notion.so/En-kr-4dcb4f766847435abfdfeea1e461b221)|
   > |29|Merge Sort Challenges|[종찬]||
   > |30|Radix Sort| ||
