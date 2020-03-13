@@ -49,16 +49,16 @@
   > |21|Binary Search Challenges|[도미닉]||
   > |22|The Heap Data Structure|[성훈]|[드롭박스 문서](https://paper.dropbox.com/doc/The-Heap-Data-Structure--AuoD4L7Hzse7fm5QbC3~C_JKAg-5YhTxdUVc8BqsQ6fMRV16)|
   > |23|Heap Data Structure Challenges|[성훈]||
-  > |24|Priority Queue| ||
-  > |25|Priority Queue Challenges| ||
+  > |24|Priority Queue|[장희]|[노션](https://www.notion.so/Priority-Queue-75f30d4cb1bc4c65911711a9508120d7)|
+  > |25|Priority Queue Challenges|[장희]||
 
 * **Section IV: Sorting Algorithms**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
   > |26|O(n2) Sorting Algorithms| ||
   > |27|O(n2) Sorting Challenges| ||
-  > |28|Merge Sort| ||
-  > |29|Merge Sort Challenges|||
+  > |28|Merge Sort|[종찬]|[노션](https://www.notion.so/En-kr-4dcb4f766847435abfdfeea1e461b221)|
+  > |29|Merge Sort Challenges|[종찬]||
   > |30|Radix Sort| ||
   > |31|Radix Sort Challenges|||
   > |32|Heap Sort| ||
