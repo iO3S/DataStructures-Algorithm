@@ -59,18 +59,18 @@
   > |27|O(n2) Sorting Challenges|[태헌]||
   > |28|Merge Sort|[종찬]|[노션](https://www.notion.so/En-kr-4dcb4f766847435abfdfeea1e461b221)|
   > |29|Merge Sort Challenges|[종찬]||
-  > |30|Radix Sort| ||
-  > |31|Radix Sort Challenges|||
-  > |32|Heap Sort| ||
-  > |33|Heap Sort Challenges|||
-  > |34|Quicksort| ||
-  > |35|Quicksort Challenges|||
+  > |30|Radix Sort|[경준]|[노션](https://www.notion.so/Radix-Sort-5b8706ef8cfd40f5b76012dc0b4bb64b)|
+  > |31|Radix Sort Challenges|[경준]||
+  > |32|Heap Sort|[경준]|[노션](https://www.notion.so/Heap-Sort-200ae1c476524f0f99839465eeb78d35)|
+  > |33|Heap Sort Challenges|[경준]||
+  > |34|Quicksort|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/quick-sort-in-swift)|
+  > |35|Quicksort Challenges|[도미닉]||
 
 * **Section V: Graphs**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |36|Graphs| ||
-  > |37|Graphs Challenges|  ||
+  > |36|Graphs|[성훈]|[드롭박스](https://paper.dropbox.com/doc/Graphs--AweGOnY1PLbSNLWg9Vpfwmq~Ag-c0cDyFyJxKWRCP3wGfBpt)|
+  > |37|Graphs Challenges|[성훈]||
   > |38|Breadth-First Search| ||
   > |39|Breadth-First Search Challenges|  ||
   > |40|Depth-First Search| ||
