@@ -71,8 +71,8 @@
   > |:---:| :--- | :---: | :--- |
   > |36|Graphs|[성훈]|[드롭박스](https://paper.dropbox.com/doc/Graphs--AweGOnY1PLbSNLWg9Vpfwmq~Ag-c0cDyFyJxKWRCP3wGfBpt)|
   > |37|Graphs Challenges|[성훈]||
-  > |38|Breadth-First Search| ||
-  > |39|Breadth-First Search Challenges|  ||
+  > |38|Breadth-First Search|[련호]|[노션](https://www.notion.so/Chapter-38-Breadth-First-Search-44f27c69ac134a07a6b05d9baf07d06d)|
+  > |39|Breadth-First Search Challenges|[련호]||
   > |40|Depth-First Search|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-40-depth-first-search-dc4b3e21cba)|
   > |41|Depth-First Search Challenges|[종찬]||
   > |42|Dijkstra's Algorithm| ||
